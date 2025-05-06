@@ -26,7 +26,7 @@ const About = () => {
             className="text-center"
           >
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
-              About <span className="bg-gradient-to-r from-blue-600 to-green-500 bg-clip-text text-transparent">Sportec</span>
+              About <span className="bg-gradient-to-r from-[#de1200]/60 to-black bg-clip-text text-transparent">Sportec</span>
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Connecting athletes, enthusiasts, and sports lovers through innovative technology.
